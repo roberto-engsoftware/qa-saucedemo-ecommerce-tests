@@ -29,8 +29,8 @@ https://www.saucedemo.com/
 
 ## Ferramentas utilizadas
 
-- Google Chrome
-- Windows 10/11
+- Brave
+- Windows 10
 - GitHub
 - Markdown
 - Capturas de tela para evidências
